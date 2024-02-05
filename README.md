@@ -1,1 +1,1 @@
-BSC_fiveCardPoker.git
+# BSC_fiveCardPoker
